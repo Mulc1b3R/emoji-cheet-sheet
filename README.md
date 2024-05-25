@@ -1,5 +1,5 @@
 # emoji-cheet-sheet
-
+Make your own 'Animoji's' from a selection of
 All existing emoji's registered by unicode.org.
 ****************************************************************************************************************************************************************************
 * ![Untitled](https://github.com/Mulc1b3R/emoji-cheet-sheet/assets/158625834/20fb373b-256f-40bf-8d36-53e5f3364fab) Double click on emoji.html.
