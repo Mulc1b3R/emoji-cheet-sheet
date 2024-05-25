@@ -29,6 +29,6 @@
 * A new 'output' folder will appear containing your animated emoji.
 * Put some much needed fun and originality back in to the web.
 ****************************************************************************************************************************************************************************** 
-https://www.worldwildlife.org/assets/structure/unique/logo-c562409bb6158bf64e5f8b1be066dbd5983d75f5ce7c9935a5afffbcc03f8e5d.png
+<img src="https://www.worldwildlife.org/assets/structure/unique/logo-c562409bb6158bf64e5f8b1be066dbd5983d75f5ce7c9935a5afffbcc03f8e5d.png">
 ******************************************************************************************************************************************************************************
 
