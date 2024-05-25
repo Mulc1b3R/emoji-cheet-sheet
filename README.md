@@ -1,4 +1,4 @@
-# emoji-cheat-sheet ![Animoji](animoji.gif)
+# emoji-cheat-sheet : [![Animoji](animoji.gif)](https://www.worldwildlife.org/)
 * Make your own 'Animoji's' from a selection of
 * All existing emoji's registered by unicode.org.
 * Use animated emoji's as hypertext links.
