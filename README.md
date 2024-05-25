@@ -1,4 +1,4 @@
-# emoji-cheet-sheet
+# emoji-cheat-sheet
 * Make your own 'Animoji's' from a selection of
 * All existing emoji's registered by unicode.org.
 * Use animated emoji's as hypertext links.
