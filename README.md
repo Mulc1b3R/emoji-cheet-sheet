@@ -1,6 +1,7 @@
 # emoji-cheet-sheet
-Make your own 'Animoji's' from a selection of
-All existing emoji's registered by unicode.org.
+* Make your own 'Animoji's' from a selection of
+* All existing emoji's registered by unicode.org.
+* Use animated emoji's as hypertext links.
 ****************************************************************************************************************************************************************************
 * ![Untitled](https://github.com/Mulc1b3R/emoji-cheet-sheet/assets/158625834/20fb373b-256f-40bf-8d36-53e5f3364fab) Double click on emoji.html.
 * ![Untitled-1](https://github.com/Mulc1b3R/emoji-cheet-sheet/assets/158625834/f5bd77a7-2f43-4aa5-bab4-a38771427e7b) Right click on chosen image...
