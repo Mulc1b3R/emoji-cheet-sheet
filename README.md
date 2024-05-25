@@ -2,7 +2,7 @@
 
 [![Animoji](animoji2.gif)](https://www.worldwildlife.org/) 
 
-Click the animoji....To sponsor an endagered species.
+* Click the animoji....To sponsor an endagered species.
 
 * Make your own 'Animoji's' from a selection of
 * All existing emoji's registered by unicode.org.
