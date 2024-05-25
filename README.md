@@ -2,6 +2,7 @@
 * Make your own 'Animoji's' from a selection of
 * All existing emoji's registered by unicode.org.
 * Use animated emoji's as hypertext links.
+* Express complex concepts and emotions in a dynamic way. 
 ****************************************************************************************************************************************************************************
 * ![Untitled](https://github.com/Mulc1b3R/emoji-cheet-sheet/assets/158625834/20fb373b-256f-40bf-8d36-53e5f3364fab) Double click on emoji.html.
 * ![Untitled-1](https://github.com/Mulc1b3R/emoji-cheet-sheet/assets/158625834/f5bd77a7-2f43-4aa5-bab4-a38771427e7b) Right click on chosen image...
@@ -16,5 +17,13 @@
 
 
 * ***************************************************************************************************************************************************************************
-
+* Download  ```icon-maker.py```
+* Make a new folder and put the python script in the folder.
+* make a subfolder called ```input```
+* Add your selection of emoji's cloned from the cheet sheet to 'input' folder.
+* Type ; ```pip install```
+* Type ; ```python icon-maker.py```
+* A new 'output' folder will appear containing your animated emoji.
+* Put some much needed fun and originality back in to the web.
+****************************************************************************************************************************************************************************** 
 
