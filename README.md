@@ -1,4 +1,7 @@
-# emoji-cheat-sheet : [![Animoji](animoji.gif)](https://www.worldwildlife.org/) Click the animoji....
+# emoji-cheat-sheet :
+
+[![Animoji](animoji.gif)](https://www.worldwildlife.org/) Click the animoji....
+
 * Make your own 'Animoji's' from a selection of
 * All existing emoji's registered by unicode.org.
 * Use animated emoji's as hypertext links.
