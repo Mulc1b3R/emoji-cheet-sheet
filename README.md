@@ -21,7 +21,7 @@
 * Make a new folder and put the python script in the folder.
 * make a subfolder called ```input```
 * Add your selection of emoji's cloned from the cheet sheet to 'input' folder.
-* Type ; ```pip install```
+* Type ; ```pip install requirements.txt```
 * Type ; ```python icon-maker.py```
 * A new 'output' folder will appear containing your animated emoji.
 * Put some much needed fun and originality back in to the web.
